@@ -1,3 +1,10 @@
 {
-  "cSpell.ignoreWords": ["from", "nestjs", "postgres", "signup", "typeorm"]
+  "cSpell.ignoreWords": [
+    "from",
+    "nestjs",
+    "postgres",
+    "signin",
+    "signup",
+    "typeorm"
+  ]
 }
